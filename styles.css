@@ -1,0 +1,32 @@
+body {
+	font-family: sans-serif;
+}
+
+h1 {
+	text-align: center;
+}
+
+figure {
+	margin: 0 auto;
+	max-width: 500px;
+}
+
+img {
+	display: block;
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
+}
+
+figcaption {
+	text-align: center;
+}
+
+p {
+	margin-top: 1em;
+}
+
+a {
+	text-decoration: none;
+	color: blue;
+}
